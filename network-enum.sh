@@ -1,5 +1,6 @@
 #!/bin/bash
 # Purpose: Enumerate the network
+# Created by Daniel Alicie (Pilotguy09)
 
 # Usage check
 if [ "$#" -ne 1 ]; then
